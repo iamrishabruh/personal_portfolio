@@ -29,27 +29,27 @@ To get a local copy up and running, follow these steps:
 
 1. **Clone the repository:**
 
-  ```bash
-  git clone https://github.com/username/portfolio.git
-  ```
+    ```bash
+    git clone https://github.com/username/portfolio.git
+    ```
 
 2. **Navigate to the project directory:**
 
-  ```bash
-  cd portfolio
-  ```
+    ```bash
+    cd portfolio
+    ```
 
 3. **Install the dependencies:**
 
-  ```bash
-  npm install
-  ```
+    ```bash
+    npm install
+    ```
 
 4. **Start the development server:**
 
-  ```bash
-  npm start
-  ```
+    ```bash
+    npm start
+    ```
 
 ## Usage
 
